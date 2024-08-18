@@ -1,7 +1,6 @@
 def main():
 
     task_list = list()
-    removed_task_list = list()
 
     while True:
         for i in task_list:
